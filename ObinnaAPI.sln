@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObinnaAPI", "ObinnaAPI\ObinnaAPI.csproj", "{3995F9AE-828F-4178-A25F-C76B838386FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3995F9AE-828F-4178-A25F-C76B838386FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3995F9AE-828F-4178-A25F-C76B838386FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3995F9AE-828F-4178-A25F-C76B838386FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3995F9AE-828F-4178-A25F-C76B838386FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ABADD93-6564-488E-BDD0-614CBFD34E0D}
+	EndGlobalSection
+EndGlobal

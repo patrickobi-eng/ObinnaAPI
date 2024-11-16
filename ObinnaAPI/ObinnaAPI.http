@@ -1,0 +1,6 @@
+@ObinnaAPI_HostAddress = http://localhost:5018
+
+GET {{ObinnaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
